@@ -1,0 +1,8 @@
+{
+  "name": "redux-ionic",
+  "app_id": "ec9b5368",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
